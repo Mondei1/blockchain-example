@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-example",
+  "version": "1.0.0",
+  "description": "Blockchain example for a research paper made for school.",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondei1/blockchain-example.git"
+  },
+  "author": "Mondei1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mondei1/blockchain-example/issues"
+  },
+  "homepage": "https://github.com/mondei1/blockchain-example#readme",
+  "dependencies": {
+    "typescript": "^3.4.5"
+  }
+}
